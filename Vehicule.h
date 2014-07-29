@@ -1,3 +1,8 @@
+#ifndef VEHICULE_H_INCLUDED
+#define VEHICULE_H_INCLUDED
+
+
+
 #include <iostream>
 #include<vector>
 using namespace std;
@@ -86,5 +91,5 @@ class Moto : public Vehicule            //
 
 
 
-
+#endif // VEHICULE_H_INCLUDED ....ines ...
 
